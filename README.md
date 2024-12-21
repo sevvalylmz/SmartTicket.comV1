@@ -13,7 +13,10 @@ Bilet Satış Danışmanı Girişi:esmayldz
 Şifre:12345
 
 # Projeye Katkıda Bulunanlar
-@sevvalylmz 
-@fatmanur03 
-@mertcankoglu 
-@enis56
+-@sevvalylmz 
+
+-@fatmanur03 
+
+-@mertcankoglu 
+
+-@enis56
