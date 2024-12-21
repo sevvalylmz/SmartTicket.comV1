@@ -3,6 +3,8 @@ Bu proje Görsel programlama C# proje ödevi için seçmiş olduğumuz SmarTicke
 # SmarTicket Özellikleri
 -Ana Form:
 
+-form
+
 
 
 # Kullanıcılar
