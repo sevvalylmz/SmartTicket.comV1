@@ -4,6 +4,10 @@ Bu proje Görsel programlama C# proje ödevi için seçmiş olduğumuz SmarTicke
 
 
 # Kullanıcılar
+Yetkili Girişi:fatma10
+Şifre:123
+Bilet Satış Danışmanı Girişi:esmayldz
+Şifre:12345
 # Projeye Katkıda Bulunanlar
 @sevvalylmz 
 @fatmanur03 
