@@ -5,7 +5,7 @@ Bu proje Görsel programlama C# proje ödevi için seçmiş olduğumuz SmarTicke
 
 # Kullanıcılar
 # Projeye Katkıda Bulunanlar
--@sevvalylmz 
+@sevvalylmz 
 -@fatmanur03 
 -@mertcankoglu 
 -@enis56
